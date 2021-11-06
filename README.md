@@ -1,6 +1,6 @@
 # fwb45malipatlola
 
-Deployed at https://calm-sea-96987.herokuapp.com/
+Deployed at https://aqueous-inlet-21867.herokuapp.com/
 
 Alphabets - C, D
 

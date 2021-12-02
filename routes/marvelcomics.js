@@ -15,7 +15,7 @@ const secured = (req, res, next) => {
 
 router.get('/', costume_controller.costume_view_all_Page)
 
-router.get('/detail', costume_controller.costume_view_one_Page); 
+router.get('/detail', secured,costume_controller.costume_view_one_Page); 
 
 router.get('/create', secured,costume_controller.costume_create_Page); 
  
